@@ -1,0 +1,10 @@
+.contactItem {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.deleteButton{
+    height: 40px;
+    width: 50px;
+}

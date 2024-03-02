@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+}
+
+.formField {
+  margin-left: 20px;
+}
+
+.formButton {
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
